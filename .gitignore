@@ -1,0 +1,25 @@
+# IDE metadata
+.idea/
+.vscode/
+*.out
+
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+main
+golang-restful-streaming
+golang-restfull-streaming-linux-amd64
+golang-restfull-streaming-windows-amd64
+
+# Test binary, built with `go test -c`
+*.test
+
+# Dependancies
+/vendor
+glide.lock
+
+# Environment files
+# *.env
