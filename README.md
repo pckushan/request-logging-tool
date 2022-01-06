@@ -2,7 +2,7 @@
 Application to send http requests and log the md5 responses with a parallel request worker limit flag 
 
 
-##How to run
+## How to run
 * test project
     ```makefile
     make tests
