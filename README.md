@@ -20,6 +20,6 @@ NOTE : this will create an executable file `myhtp`
   ./myhttp http://www.adjust.com http://google.com
 ```
 
-##Errors
+## Errors
 * If the domain is incorrect and not possible to do an request it will return an error specifying the respective domain and the error
 * but all other working domains will respond successfully
